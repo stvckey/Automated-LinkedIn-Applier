@@ -1,2 +1,2 @@
 # Automated-LinkedIn-Applier
-A python script that ises selenium to open chrome and apply to LinkedIn jobs automatically.
+A python script that uses selenium to open chrome and apply to LinkedIn jobs automatically.
